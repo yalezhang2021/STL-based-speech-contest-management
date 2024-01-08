@@ -1,5 +1,5 @@
 ﻿  speechManager.cpp
-D:\Users\lzzha\source\repos\基于STL的演讲比赛管理流程\基于STL的演讲比赛管理流程\speechManager.cpp(268,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Users\lzzha\source\repos\基于STL的演讲比赛管理流程\基于STL的演讲比赛管理流程\speechManager.cpp(267,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
 D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
 D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244:         with
 D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244:         [
@@ -8,7 +8,7 @@ D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.3313
   (compiling source file 'speechManager.cpp')
   D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26):
   the template instantiation context (the oldest one first) is
-  	D:\Users\lzzha\source\repos\基于STL的演讲比赛管理流程\基于STL的演讲比赛管理流程\speechManager.cpp(150,16):
+  	D:\Users\lzzha\source\repos\基于STL的演讲比赛管理流程\基于STL的演讲比赛管理流程\speechManager.cpp(149,16):
   	see reference to function template instantiation '_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)' being compiled
           with
           [
@@ -24,4 +24,5 @@ D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.3313
               _Fn=std::plus<void>
           ]
   
+x64\Debug\speechManager.obj : warning LNK4042: object specified more than once; extras ignored
   基于STL的演讲比赛管理流程.vcxproj -> D:\Users\lzzha\source\repos\基于STL的演讲比赛管理流程\x64\Debug\基于STL的演讲比赛流程管理系统.exe
