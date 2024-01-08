@@ -2,7 +2,7 @@
 ---
 It is a simple work for beginners to learn about STL.
 
-* some images of this system
+some images of this system:
 ![image](https://github.com/yalezhang2021/STL-based-speech-contest-management/assets/74490220/3517e5c5-fe0f-4848-a205-400211ebefe0)
 [welcome page]
 
